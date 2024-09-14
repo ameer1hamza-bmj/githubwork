@@ -1,3 +1,12 @@
-h3{
+.p{
     color: red;
+}
+.b{
+   background-color: green;
+}
+.n{
+    background-color: aqua;
+}
+.m{
+    background-color: yellow;
 }

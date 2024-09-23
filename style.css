@@ -10,19 +10,35 @@
 .m{
     background-color: yellow;
 }
-.o{
-    font-size: 100px;
-    background-color: blue;
+.d1{
+    height: 400px;
+    width: 300px;
+    border: 1px solid #29903B;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjVZQYEaS67phq3hnR8SWD1kI-rlpnBiWslsuezDy3dZr5jrJb6TvXLR6akGHnAnBKesU&usqp=CAU);
+background-color: rgb(0, 0, 0);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
 }
-.q{
-    font-size: 50px;
-    background-color: pink;
+img{
+    margin-top: 10px;
+    border: 0.2em solid red;
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
 }
-.e{
-    background-color: brown;
-    font-size: larger;
+.h3{
+    color: red;
+  font-size: 1em;
+    border: 0.2em;
+    border-color: blue;
+    border-style: dashed dotted solid groove;
 }
-#id{
-    color: lawngreen;
-    background-color: aqua;
+.pa{
+    color: purple;
+    font-weight: bold;
+    border: 1px double aqua;
+    font-size: 1em;
 }
